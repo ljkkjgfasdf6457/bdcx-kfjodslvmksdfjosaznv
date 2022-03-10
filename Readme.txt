@@ -6,8 +6,8 @@ http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/02/wind
 ;2021-11 适用于 Windows 8.1 基于 x86 系统的月度安全质量汇总
 http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/11/windows8.1-kb5007247-x86_9e24efca570d32cf36029feb853f88c168226a04.msu
 
-;2021-11 Windows 10 1809 基于 x64 系统的累计更新
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2021/11/windows10.0-kb5007206-x64_f8ccc7d4574581576e74d86ccacc7fbf47d050f6.msu
+;2022-03 Windows 10 1809 基于 x64 系统的累计更新
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2022/03/windows10.0-kb5011503-x64_4ffdd7a077a2c94d093a445f7a0efa10e0b92d95.msu
 
 ;2021-11 Windows 10 1809 基于 x86 系统的累计更新
 http://download.windowsupdate.com/d/msdownload/update/software/updt/2021/11/windows10.0-kb5008602-x86_bc9c29ade83d386cc7c4b507d301552a2b92962b.msu
